@@ -5,7 +5,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Person A:
 
 Person A should modify content here.
-Hi everyone!!!!!
+Hi Ngoc!!!!!
+This is Angela's attempt to make a merge conflict. 
 
 ## Person B:
 
